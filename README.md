@@ -1,2 +1,2 @@
-# RollwithMe-Issues
-Post any issues or suggesstions regarding the Roll with Me app here
+# RollwithMe Bugs
+Please post any issues or suggesstions regarding the Roll with Me app here!
